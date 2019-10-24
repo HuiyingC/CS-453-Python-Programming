@@ -190,3 +190,10 @@ for word in list:
     print(word)
 print()
 
+
+
+
+
+
+
+

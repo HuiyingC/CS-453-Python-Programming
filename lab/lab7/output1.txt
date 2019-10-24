@@ -1,0 +1,109 @@
+Original line: Four score and seven years ago our fathers brought forth on this continent,
+Words: four score and seven years ago our fathers brought forth on this continent,
+Only Letters: four score and seven years ago our fathers brought forth on this continent
+Average word length: 4.769231
+
+Original line: a new nation, conceived in Liberty, and dedicated to the proposition that all
+Words: a new nation, conceived in liberty, and dedicated to the proposition that all
+Only Letters: a new nation conceived in liberty and dedicated to the proposition that all
+Average word length: 4.846154
+
+Original line: men are created equal. Now we are engaged in a great civil war, testing 
+Words: men are created equal. now we are engaged in a great civil war, testing
+Only Letters: men are created equal now we are engaged in a great civil war testing
+Average word length: 4.000000
+
+Original line: whether that nation, or any nation so conceived and so dedicated, can long endure. 
+Words: whether that nation, or any nation so conceived and so dedicated, can long endure.
+Only Letters: whether that nation or any nation so conceived and so dedicated can long endure
+Average word length: 4.714286
+
+Original line: We are met on a great battle-field of that war. We have come to dedicate a 
+Words: we are met on a great battle-field of that war. we have come to dedicate a
+Only Letters: we are met on a great battlefield of that war we have come to dedicate a
+Average word length: 3.562500
+
+Original line: portion of that field, as a final resting place for those who here gave 
+Words: portion of that field, as a final resting place for those who here gave
+Only Letters: portion of that field as a final resting place for those who here gave
+Average word length: 4.071429
+
+Original line: their lives that that nation might live. It is altogether fitting and proper 
+Words: their lives that that nation might live. it is altogether fitting and proper
+Only Letters: their lives that that nation might live it is altogether fitting and proper
+Average word length: 4.846154
+
+Original line: that we should do this. But, in a larger sense, we can not dedicate
+Words: that we should do this. but, in a larger sense, we can not dedicate
+Only Letters: that we should do this but in a larger sense we can not dedicate
+Average word length: 3.642857
+
+Original line: -- we can not consecrate -- we can not hallow -- this ground. The brave men,
+Words: -- we can not consecrate -- we can not hallow -- this ground. the brave men,
+Only Letters:  we can not consecrate  we can not hallow  this ground the brave men
+Average word length: 3.312500
+
+Original line: living and dead, who struggled here, have consecrated it, far above our poor 
+Words: living and dead, who struggled here, have consecrated it, far above our poor
+Only Letters: living and dead who struggled here have consecrated it far above our poor
+Average word length: 4.692308
+
+Original line: power to add or detract. The world will little note, nor long remember what 
+Words: power to add or detract. the world will little note, nor long remember what
+Only Letters: power to add or detract the world will little note nor long remember what
+Average word length: 4.285714
+
+Original line: we say here, but it can never forget what they did here. It is for us the 
+Words: we say here, but it can never forget what they did here. it is for us the
+Only Letters: we say here but it can never forget what they did here it is for us the
+Average word length: 3.235294
+
+Original line: living, rather, to be dedicated here to the unfinished work which they who 
+Words: living, rather, to be dedicated here to the unfinished work which they who
+Only Letters: living rather to be dedicated here to the unfinished work which they who
+Average word length: 4.615385
+
+Original line: fought here have thus far so nobly advanced. It is rather for us to be here 
+Words: fought here have thus far so nobly advanced. it is rather for us to be here
+Only Letters: fought here have thus far so nobly advanced it is rather for us to be here
+Average word length: 3.687500
+
+Original line: dedicated to the great task remaining before us -- that from these honored 
+Words: dedicated to the great task remaining before us -- that from these honored
+Only Letters: dedicated to the great task remaining before us  that from these honored
+Average word length: 4.615385
+
+Original line: dead we take increased devotion to that cause for which they gave the last 
+Words: dead we take increased devotion to that cause for which they gave the last
+Only Letters: dead we take increased devotion to that cause for which they gave the last
+Average word length: 4.357143
+
+Original line: full measure of devotion -- that we here highly resolve that these dead 
+Words: full measure of devotion -- that we here highly resolve that these dead
+Only Letters: full measure of devotion  that we here highly resolve that these dead
+Average word length: 4.384615
+
+Original line: shall not have died in vain -- that this nation, under God, shall have a 
+Words: shall not have died in vain -- that this nation, under god, shall have a
+Only Letters: shall not have died in vain  that this nation under god shall have a
+Average word length: 3.600000
+
+Original line: new birth of freedom -- and that government of the people, by the people, 
+Words: new birth of freedom -- and that government of the people, by the people,
+Only Letters: new birth of freedom  and that government of the people by the people
+Average word length: 4.000000
+
+Original line: for the people, shall not perish from the earth.
+Words: for the people, shall not perish from the earth.
+Only Letters: for the people shall not perish from the earth
+Average word length: 4.222222
+
+Original line: Abraham Lincoln
+Words: abraham lincoln
+Only Letters: abraham lincoln
+Average word length: 7.000000
+
+Original line: November 19, 1863Words: november 19, 1863
+Only Letters: november  
+Average word length: 2.666667
+
