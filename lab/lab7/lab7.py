@@ -3,7 +3,7 @@
 # CS 453 Lab Assignment # 7
 # Written by Huiying Chen
 # Date written 23 Oct 2019
-# Date last modified 23 Oct 2019
+# Date last modified 29 Oct 2019
 # Purpose: List Practice
 """
 Created on Wed Oct 23 00:52:55 2019
@@ -28,11 +28,26 @@ def remove_non_alpha( s ) :
 # return: a new string that contains only the numeric characters (letters) of s that can form a valid int or float number(numeric value can have a leading '+' or '-' and a float can have a decimal point (but only one decimal point)).
 def remove_non_numeric( s ) :
     new_s = ""
-    s_list = s.split()
-    for item in s_list:
+    for c in s:
         # add to the new string if the character is a valid int or float number(may start with '+' or '-' and may have only one decimal point)
-        if item.isnumeric() or (item.startswith('+') or item.startswith('-') and item[1:].replace('.','', 1).isnumeric()) or (item.replace('.','', 1).isnumeric()):
-            new_s += item 
+        # remove alpha, whitespace, any punctuations other than '-', '+' or '.'
+        if c.isnumeric() or c == '-' or c == '+' or c == '.':
+            new_s += c
+    # ensure string index in bound
+    if len(new_s) > 1:
+        # remove first character if not '-' or '+' or digit
+        if new_s[0] != '+' and new_s[0] != '-' and (not new_s[0].isnumeric()):
+            new_s = new_s[1:]
+        # keep only the first occurence of '.', '+' or '-'
+        if new_s.count('+') > 1:
+            new_s = new_s[:new_s.find('+')+1] + new_s[new_s.find('+')+1:].replace('+','')
+        if new_s.count('-') > 1:
+            new_s = new_s[:new_s.find('-')+1] + new_s[new_s.find('-')+1:].replace('-','')    
+        if new_s.count('.') > 1:
+            new_s = new_s[:new_s.find('.')+1] + new_s[new_s.find('.')+1:].replace('.','')
+    # if new_s is empty or contain only one character, remove if not a digit
+    if len(new_s) <= 1 and not new_s.isnumeric():
+        new_s = ""    
     return new_s
  
 
@@ -86,7 +101,7 @@ def list_stats( a_list ) :
 
 # main function
 def main( ) :
-      
+    
     # 1)Open file1.txt for reading
     inputFile = open("file1.txt", "r")
     # 2)Open output1.txt for writing
